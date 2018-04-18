@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MED MANAGER</string>
+    <string name="name_of_the_medicine">Name of the Medicine</string>
+    <string name="number_of_tablets_per_intake">Number of tablets per intake</string>
+    <string name="number_of_times_per_days">Number of times per days</string>
+    <string name="start_date">Start date</string>
+    <string name="number_of_days">Number of days</string>
+    <string name="medicine_description">Medicine Description</string>
+    <string name="save">Save</string>
+
+
+    <string name="medicine_reminder_notification_title">Time to take them meds!</string>
+    <string name="medicine_reminder_notification_body">Your supposed to take Panadol, Asprin, Piliton and Brufen. click to view their prescriptions</string>
+    <string name="main_notification_channel_name">Primary</string>
+    <string name="server_client_id">
+        465232535711-9f0bmveahpd1avvmnm0hi868o2cag9f7.apps.googleusercontent.com
+    </string>
+</resources>
